@@ -62206,7 +62206,7 @@
 																	}),
 																		(d += "\n"));
 															}),
-															{ text: "".concat(l, "\n\n").concat(d.trimEnd()).concat("\n\nhttps://github.com/Furuyume/jndle_extension") }
+															{ text: "".concat(l, "\n\n").concat(d.trimEnd()).concat("\n\nhttps://furuyume.github.io/jndle_extension/jndle_ex.html") }
 														);
 													})({
 														evaluations: e.gameApp.evaluations,
